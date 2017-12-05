@@ -61,3 +61,4 @@ def setup(webhook_url=None):
 
 if __name__ == '__main__':
     setup()
+    application.run()
